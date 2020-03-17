@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-13 01:02:38</sys_created_on>
-        <sys_id>109222c5db678050136cef728a96191a</sys_id>
+        <sys_id>4f9db3d6dbeb8450136cef728a9619c0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Reserved</sys_name>
         <sys_package display_value="demodata" source="x_snc_demodata">a261668ddba3005028148a8b3a961992</sys_package>
         <sys_policy/>
         <sys_scope display_value="demodata">a261668ddba3005028148a8b3a961992</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_demodata_catalog_reserved</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-13 01:02:38</sys_updated_on>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2020-03-17 04:52:36</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
